@@ -1,0 +1,25 @@
+.rows{
+    margin-left:33em;
+}
+#firstrow{
+    margin-top:3em;
+}
+#heading{
+    text-align: center;
+    text-shadow: 4px 2px 3px white;
+
+    font-weight: bold;
+     font-size: 80px;
+
+}
+body{
+   background-color: palevioletred;
+}
+#points{
+    margin-left: 40em;
+    font-size: large;
+}
+
+#congo{
+    margin:auto;
+}
